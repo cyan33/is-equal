@@ -1,0 +1,26 @@
+{
+  "name": "@changyan/is-equal",
+  "version": "0.0.1",
+  "description": "a JavaScript function utility to check if two things are content-wise equal or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasyimgit/is-equal.git"
+  },
+  "keywords": [
+    "equal",
+    "identical",
+    "same",
+    "function",
+    "utility"
+  ],
+  "author": "Chang Yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasyimgit/is-equal/issues"
+  },
+  "homepage": "https://github.com/thomasyimgit/is-equal#readme"
+}
